@@ -1,0 +1,225 @@
+! 2023-08-04 https://m.youtube.com
+m.youtube.com##ytm-reel-shelf-renderer
+
+
+! 2023-08-04 https://www.3bmeteo.com
+www.3bmeteo.com###radar-homepage-container
+www.3bmeteo.com###mpu_t
+www.3bmeteo.com###newscarousel
+
+! 2023-08-05 https://m.youtube.com
+m.youtube.com##.big-shorts-singleton
+
+! 2023-08-06 https://www.eurosport.it
+
+www.eurosport.it##.ad
+
+! 2023-08-07 https://community.mtb-mag.com
+community.mtb-mag.com##.notice-content
+community.mtb-mag.com##.uix_noticeIcon
+community.mtb-mag.com##.p-title-pageAction
+
+! 2023-08-21 https://www.eurosport.it
+www.eurosport.it##div.lg:mb-5.md:mb-6.mb-5 > .text-br-2-20.flex
+
+! 2023-09-05 https://trackspotting.com
+trackspotting.com###ad1
+
+! 2023-09-06 https://www.fplstatistics.co.uk
+www.fplstatistics.co.uk###logoIMG
+www.fplstatistics.co.uk###divAdvert
+www.fplstatistics.co.uk##[src="/Images/betterFPL.png"]
+www.fplstatistics.co.uk##[src="/Images/FFH.jpg"]
+
+! 2023-10-22 https://www.3bmeteo.com
+www.3bmeteo.com##.iubenda-tp-btn-container
+
+! 2023-11-03 https://www.qdpnews.it
+www.qdpnews.it##.is-sticky.advads-close.advads-has-background.qdpne-layer-onload.qdpne-layer.qdpne-popup
+www.qdpnews.it##.advads-background
+www.qdpnews.it##.cs-meta-author-inner
+
+! 2023-11-03 https://corrierealpi.gelocal.it
+corrierealpi.gelocal.it##.story__share
+corrierealpi.gelocal.it###advHook-Middle1
+corrierealpi.gelocal.it###adv-Top
+
+! 2023-11-05 https://www.gazzetta.it
+www.gazzetta.it##div.bck-media-leads > .media-leads__footer > .bck-adv-sponsor > .is-special.adv-sponsor__content
+
+! 2023-11-06 https://www.decathlon.it
+www.decathlon.it##.svelte-17srx40.top-notification-bar-blue.vtmn-w-full.vtmn-theme_core--dark
+
+! 2023-11-07 https://www.qdpnews.it
+www.qdpnews.it##.cs-footer-social-links
+
+! 2023-11-21 https://www.technologyreview.com
+www.technologyreview.com##.adUnit
+www.technologyreview.com##.headerTemplate__isHeadroom--6499e1bab315756ec242c75d8503a643.headerTemplate__navigationRow--3a62ddafd8db50d42d8385fb402f956f > .headerTemplate__rightNavHolder--da5465c8554116beccc869269e47c946 > .headerTemplate__navigation--2567d38a8f10cb9d77886fdac95302f1 > .headerTemplate__userGreeting--8b050e56ca15c4ec691aa7457c580806 > .userGreeting__wrapper--62d7ba80187c74769aea2bab50aa4f42 > .userGreeting__subscribeWrapper--3889cde5d5bb8a9630b0602f4fd173b9
+
+! 2023-11-25 https://www.today.it
+www.today.it##.u-mb-medium@xl > .u-flex.l-entry__byline
+www.today.it##.speakup-mini-meta-data
+www.today.it##.visible.speakup-mini-player-container
+www.today.it##.speakup-theme-donne-25-nov
+www.today.it##.u-mx-auto.u-my-small.u-size-full
+www.today.it##.u-flex.u-p-small.l-entry__byline
+
+! 2023-12-26 https://www.fantasyfootballscout.co.uk
+www.fantasyfootballscout.co.uk##.top-advert-header
+
+! 2023-12-29 https://www.strava.com
+www.strava.com##.src-PromotionBanner-module__container--xXdK1
+
+! 2024-01-29 https://www.eurosport.it
+www.eurosport.it##.bg-br-2-0.border-br-2-20.border-b.md:py-2.py-2.5
+
+! 2024-01-31 https://www.eurosport.it
+www.eurosport.it##.jw-wrapper
+www.eurosport.it##.jw-flag-small-player
+www.eurosport.it##.react-draggable.bottom-4.lg:w-[500px].sm:w-[350px].rounded-[8px].w-[255px].z-20.right-4.fixed.picture-in-picture
+www.eurosport.it##.react-draggable-dragged.react-draggable.md:bottom-[115px].bottom-[102px].lg:w-[500px].sm:w-[350px].rounded-[8px].w-[255px].z-20.right-4.fixed.picture-in-picture > .wrapper-16-9
+www.eurosport.it##.lg:h-[156px].text-br-2-90.bg-br-2-10.rounded-4.items-center.min-h-[130px].h-full.flex
+
+! 2024-01-31 https://www.meteoblue.com
+www.meteoblue.com##.mobile-top-da-wrapper.centered
+
+! 2024-02-09 https://m.youtube.com
+m.youtube.com##.no-icon.lower-title.gradient-background.feed-nudge-content-wrapper
+
+! 2024-02-10 https://www.newsinquota.it
+www.newsinquota.it##.elementor-widget-social-icons.elementor-widget.elementor-grid-0.elementor-grid-mobile-6.e-grid-align-mobile-right.e-grid-align-right.elementor-shape-circle.elementor-element-aad79ac.elementor-element
+www.newsinquota.it##.jet-blog.elementor-jet-blog-text-ticker
+www.newsinquota.it##.size-large.attachment-large
+www.newsinquota.it##.elementor-widget-text-editor.elementor-widget.elementor-element-70f9a86.elementor-element
+www.newsinquota.it##.elementor-widget-social-icons.elementor-widget.elementor-grid-0.e-grid-align-mobile-left.e-grid-align-left.elementor-shape-circle.elementor-element-c27235f.elementor-element > .elementor-widget-container > .elementor-grid.elementor-social-icons-wrapper
+
+! 2024-02-10 https://www.focus.it
+www.focus.it##.foc-header-nav-right.foc-header-nav
+
+! 2024-02-12 https://www.3bmeteo.com
+www.3bmeteo.com##.opensans.text-align-sm.form-success
+
+! 2024-02-24 https://www.mtbtech.it
+www.mtbtech.it###ads-link
+
+! 2024-03-17 https://www.qdpnews.it
+www.qdpnews.it##.ditty-ticker
+
+! 2024-03-25 https://www.trevisotoday.it
+www.trevisotoday.it##.video-player
+
+! 2024-03-25 https://www.ubitennis.com
+
+! 2024-03-25 https://www.menstennisforums.com
+www.menstennisforums.com##.california-thread-ad.california-ad-mobile.california-ad.california-banner-ad-container
+
+! 2024-04-08 https://www.ubitennis.com
+
+! 2024-04-08 https://www.ubitennis.com
+www.ubitennis.com##.mrf-detailsMedia.mrf-rDetailsMedia.mrf-widgetAd
+
+! 2024-04-12 https://m.youtube.com
+m.youtube.com##.fresh-feeds-dismissals.rich-section-content
+
+! 2024-04-26 https://www.3bmeteo.com
+www.3bmeteo.com##.h-loc-t
+
+! 2024-04-29 https://community.mtb-mag.com
+community.mtb-mag.com##.fa-times-square.fas.fa--xf
+community.mtb-mag.com##.samLazyLoading.samItem
+community.mtb-mag.com##.samCodeUnit
+
+! 2024-04-29 https://m.youtube.com
+m.youtube.com##.pivot-shorts
+m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
+
+! 2024-04-29 https://community.mtb-mag.com
+community.mtb-mag.com##.notices--bottom_fixer
+
+! 2024-04-30 https://www.eurosport.it
+www.eurosport.it##.md\:py-2.py-2\.5.bg-onDark-03
+www.eurosport.it##.react-draggable.md\:bottom-\[115px\].bottom-\[102px\].lg\:w-\[500px\].sm\:w-\[350px\].rounded-\[8px\].w-\[255px\].z-20.right-4.fixed.picture-in-picture
+www.eurosport.it##.pip-container
+www.eurosport.it##.lg\:h-\[156px\].text-br-2-90.bg-br-2-10.rounded-4.items-center.min-h-\[130px\].h-full.flex
+www.eurosport.it###twitter-widget-0
+
+! 2024-05-01 https://www.weatherandradar.com
+||www.weatherandradar.com/%5Eassets/ad/ad-placeholder.svg$image
+||www.weatherandradar.com/%5Eassets/ad/ad-placeholder.svg$image
+
+! 2024-05-01 https://www.eurosport.it
+www.eurosport.it##.bg-onLight-01.border-onLight-01.border.overflow-hidden.w-full.h-full.z-10.top-0.left-0.absolute
+
+! 2024-05-07 https://www.justetf.com
+||www.justetf.com/images/layer/img-spv3-s.jpg$image
+www.justetf.com###slick-slide02 > .home-slider-slide
+
+! 2024-05-19 https://www.olivierodolciaria.com
+www.olivierodolciaria.com##.animated.dialog-lightbox-widget-content.dialog-widget-content
+www.olivierodolciaria.com##.elementor-popup-modal.dialog-type-lightbox.dialog-type-buttons.dialog-lightbox-widget.dialog-widget
+
+! 9 Jun 2024 https://www.windy.com
+www.windy.com##.article--show.open.clickable.weather-box
+
+! 20 Jun 2024 https://www.ubitennis.com
+www.ubitennis.com##.elementor-widget-html.elementor-widget.elementor-hidden-desktop.elementor-widget__width-auto.elementor-element-2423ecb7.elementor-element > .elementor-widget-container
+www.ubitennis.com##.meta-author.meta-el
+www.ubitennis.com##.published.date
+www.ubitennis.com##.smeta-extra
+www.ubitennis.com###twitter-widget-0
+www.ubitennis.com##.widget-follower
+www.ubitennis.com##.edge-padding.mbnav-center.mbnav > .navbar-right > .dark-mode-toggle-wrap > .dark-mode-toggle > .dark-mode-slide
+www.ubitennis.com##.navbar-left > .font-resizer.wnav-holder
+www.ubitennis.com##.mobile-social-title
+www.ubitennis.com##.mobile-socials
+
+! 1 Jul 2024 https://www.ubitennis.com
+www.ubitennis.com###betscanner
+
+! 7 Aug 2024 https://www.poundsterlinglive.com
+www.poundsterlinglive.com## .custom.mod-custom
+www.poundsterlinglive.com##.float_redi_box
+
+! 7 Aug 2024 https://weightweenies.starbike.com
+weightweenies.starbike.com##div#p.has-profile.post
+
+! 19 Aug 2024 https://www.eurosport.it
+
+! 19 Aug 2024 https://www.eurosport.it
+||imgresizer.eurosport.com/unsafe/73x0/filters:format(*)/origin-imgresizer.eurosport.com/2024/06/24/3992532-81026348-2560-1440.jpg$image
+||imgresizer.eurosport.com/unsafe/73x0/filters:format(*)/origin-imgresizer.eurosport.com/2024/06/24/3992532-81026348-2560-1440.jpg$image
+
+! 20 Aug 2024 https://www.gazzetta.it
+www.gazzetta.it##.icon-gazzetta-g-commentbubble
+www.gazzetta.it###commentform
+www.gazzetta.it##.comments-list
+www.gazzetta.it##.social-media__content
+www.gazzetta.it##.comments
+www.gazzetta.it###abbonatiText
+www.gazzetta.it##.is-jazzberry-jam
+www.gazzetta.it##.icon-gazzetta-g-usericon
+www.gazzetta.it##.account-icon
+www.gazzetta.it##.titles__line
+www.gazzetta.it###navbar-banner > .bannermenu-g-plus-cta
+www.gazzetta.it###navbar-sub > .bannermenu-g-plus-cta
+
+! 20 Aug 2024 https://www.ubitennis.com
+www.ubitennis.com###disqus_thread
+www.ubitennis.com##.comment-box-wrap
+www.ubitennis.com##.tag-bar
+www.ubitennis.com##.efoot-commas
+www.ubitennis.com##.elementor-widget-video.elementor-widget.elementor-element-826ad19.elementor-element > .elementor-widget-container
+
+! 21 Aug 2024 https://www.gazzetta.it
+www.gazzetta.it##.tile-comment__content
+
+! 2 Sept 2024 https://www.fantasyfootballscout.co.uk
+www.fantasyfootballscout.co.uk###view-full
+
+! 4 Sept 2024 https://www.surf-magazin.de
+||www.surf-magazin.de/api/pwOffer/?id=474&object_url=https://www.surf-magazin.de/en/spots-and-areas/international/croatia/krk-the-best-windsurfing-spots-on-the-croatian-island/$subdocument
+www.surf-magazin.de##.transition-all.align-middle.bg-opacity-70.bg-skin-primary-ultradark.justify-around.items-center.w-screen.h-screen.flex.z-\[99999999999\].top-0.left-0.fixed
+
+! 5 Sept 2024 https://www.ubitennis.com
+www.ubitennis.com##.clearfix.sidebar-inner
