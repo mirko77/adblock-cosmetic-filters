@@ -67,6 +67,7 @@ www.today.it##.u-flex.u-p-small.l-entry__byline
 
 ! 2023-12-26 https://www.fantasyfootballscout.co.uk
 www.fantasyfootballscout.co.uk##.top-advert-header
+www.fantasyfootballscout.co.uk###thetop
 
 ! 2023-12-29 https://www.strava.com
 www.strava.com##.src-PromotionBanner-module__container--xXdK1
