@@ -4,6 +4,7 @@ m.youtube.com##ytm-reel-shelf-renderer
 
 ! 2023-08-04 https://www.3bmeteo.com
 www.3bmeteo.com###radar-homepage-container
+www.3bmeteo.com##.radar-title-container
 www.3bmeteo.com###mpu_t
 www.3bmeteo.com###newscarousel
 www.3bmeteo.com##.newsbar_top
