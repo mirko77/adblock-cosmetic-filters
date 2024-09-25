@@ -6,6 +6,7 @@ m.youtube.com##ytm-reel-shelf-renderer
 www.3bmeteo.com###radar-homepage-container
 www.3bmeteo.com###mpu_t
 www.3bmeteo.com###newscarousel
+www.3bmeteo.com###topnews
 
 ! 2023-08-05 https://m.youtube.com
 m.youtube.com##.big-shorts-singleton
