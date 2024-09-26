@@ -230,3 +230,5 @@ www.ubitennis.com##.clearfix.sidebar-inner
 ! Sep 25, 2024 https://community.mtb-mag.com
 community.mtb-mag.com##.js-notices.notices--block.notices
 
+eurosport.it##.bg-onDark-03
+
