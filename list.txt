@@ -226,3 +226,7 @@ www.surf-magazin.de##.transition-all.align-middle.bg-opacity-70.bg-skin-primary-
 
 ! 5 Sept 2024 https://www.ubitennis.com
 www.ubitennis.com##.clearfix.sidebar-inner
+
+! Sep 25, 2024 https://community.mtb-mag.com
+community.mtb-mag.com##.js-notices.notices--block.notices
+
