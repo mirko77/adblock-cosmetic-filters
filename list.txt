@@ -232,7 +232,7 @@ www.ubitennis.com##.clearfix.sidebar-inner
 ! Sep 25, 2024 https://community.mtb-mag.com
 community.mtb-mag.com##.js-notices.notices--block.notices
 
-eurosport.it##.bg-onDark-03
-eurosport.it##data-testid^='organism-smart-banner'
-eurosport.it##data-testid^='molecule-marketing-block'
+www.eurosport.it##.bg-onDark-03
+www.eurosport.it##div[data-testid="organism-smart-banner"]
+www.eurosport.it##div[data-testid="molecule-marketing-block"]
 
