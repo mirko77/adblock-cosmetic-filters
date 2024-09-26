@@ -18,6 +18,7 @@
             @media (max-width: 767px) {
                 body {
                     padding-top: 0 !important;
+                    margin-top:-5px!important;
                 }
             }
         `;
