@@ -12,7 +12,7 @@
   'use strict';
 
   // Define domains to hide (replace with the domains you want to hide)
-  const blockedDomains = ['facebook.com', 'instagram.com'];
+  const blockedDomains = ['facebook.com', 'instagram.com', 'twitter.com'];
 
   // Function to hide search results
   function hideSearchResults() {
