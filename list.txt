@@ -236,3 +236,9 @@ www.eurosport.it##.bg-onDark-03
 www.eurosport.it##div[data-testid="organism-smart-banner"]
 www.eurosport.it##div[data-testid="molecule-marketing-block"]
 
+
+
+! Oct 10, 2024 https://www.ubitennis.com
+www.ubitennis.com##.sgpb-popup-overlay.sgpb-popup-overlay-611510.sgpb-theme-1-overlay
+www.ubitennis.com##.sgpb-popup-dialog-main-div-wrapper
+
