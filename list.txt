@@ -236,6 +236,10 @@ www.eurosport.it##.bg-onDark-03
 www.eurosport.it##div[data-testid="organism-smart-banner"]
 www.eurosport.it##div[data-testid="molecule-marketing-block"]
 
+! 28 May 2025 https://www.reddit.com
+www.reddit.com##.inline-flex.button.justify-center.items-center.icon.button-plain.px-\[var\(--rem8\)\].button-medium.flex-shrink-0
+www.reddit.com##span.contents > .h-\[40px\].w-\[40px\].relative
+
 
 
 ! Oct 10, 2024 https://www.ubitennis.com
