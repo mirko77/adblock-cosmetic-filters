@@ -243,6 +243,8 @@ www.reddit.com##a#notifications[title="notifications"]
 www.reddit.com##.icon-nav__badge
 www.reddit.com##.icon-nav__entry
 www.reddit.com##span.contents .relative > div[style*="background-color"]
+www.reddit.com##div[style*="background-color: rgb(255, 86, 0)"]
+
 
 
 
