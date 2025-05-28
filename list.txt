@@ -245,6 +245,8 @@ www.reddit.com##.icon-nav__entry
 www.reddit.com##span.contents .relative > div[style*="background-color"]
 www.reddit.com##div[style*="background-color: rgb(255, 86, 0)"]
 www.reddit.com##span[data-part="inbox"]
+www.reddit.com##div.absolute.top-0.right-0.pointer-events-none
+
 
 
 
