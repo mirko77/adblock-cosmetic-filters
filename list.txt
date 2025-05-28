@@ -240,6 +240,9 @@ www.eurosport.it##div[data-testid="molecule-marketing-block"]
 www.reddit.com##.inline-flex.button.justify-center.items-center.icon.button-plain.px-\[var\(--rem8\)\].button-medium.flex-shrink-0
 www.reddit.com##span.contents > .h-\[40px\].w-\[40px\].relative
 www.reddit.com##a#notifications[title="notifications"]
+www.reddit.com##.icon-nav__badge
+www.reddit.com##.icon-nav__entry
+www.reddit.com##span.contents .relative > div[style*="background-color"]
 
 
 
