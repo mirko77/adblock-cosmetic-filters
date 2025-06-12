@@ -247,6 +247,13 @@ www.reddit.com##div[style*="background-color: rgb(255, 86, 0)"]
 www.reddit.com##span[data-part="inbox"]
 www.reddit.com##div.absolute.top-0.right-0.pointer-events-none
 
+! 10 Jun 2025 https://www.ubitennis.com
+www.ubitennis.com###disqus_thread
+www.ubitennis.com##.entry-sec.comment-box-wrap
+www.ubitennis.com###masthead-wrapper
+||www.youtube.com/embed/videoseries$subdocument
+www.ubitennis.com##.elementor-widget-html.elementor-widget.elementor-element-6b5b73a.elementor-element > .elementor-widget-container
+
 
 
 
